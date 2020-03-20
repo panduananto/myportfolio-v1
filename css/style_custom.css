@@ -111,6 +111,7 @@ body {
 
 .container-work {
   margin-top: 50px;
+  height: auto;
 }
 
 .section-work h2 {
@@ -121,10 +122,6 @@ body {
 .section-work span {
   font-size: 20px;
   font-family: "Roboto", sans-serif;
-}
-
-.work-description {
-  height: 300px;
 }
 
 .work-description h2 {
@@ -145,7 +142,6 @@ body {
 }
 
 .work-gif {
-  height: 100%;
   -o-object-fit: cover;
   object-fit: cover;
 }
